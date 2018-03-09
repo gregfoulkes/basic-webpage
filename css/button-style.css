@@ -5,12 +5,16 @@
 }
 
 .buttons {
-  width: 30%;
   color: grey;
-  border-radius: 5px;
   margin: 10px;
 }
 
 .center {
-  margin:45%
+  margin:33%
+}
+
+button {
+  width:300px;
+  height: 100px;
+  margin: 10px;
 }
