@@ -11,6 +11,7 @@ font-style: normal;
 font-family: monospace;
 font: courier;
 padding: 5px;
+text-align: justify;
 }
 
 .box {
