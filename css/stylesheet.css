@@ -1,8 +1,17 @@
 body {
   height: 100%;
-  width: 100%;
+  width: 95%;
   background-color:  #F8F8FF;
   margin: auto;
+}
+
+p {
+
+font-style: normal;
+font-family: monospace;
+font: courier;
+text-align: left;
+padding: 5px;
 }
 
 .box {
@@ -28,7 +37,7 @@ body {
 }
 
 .heading img {
-  width: 45%;
+  width: 20%;
   margin: auto;
   float:left;
   padding:1em;
@@ -116,6 +125,7 @@ body {
 .d6 {
   width: 100%;
   float: left;
+  margin: 2px;
 
 }
 

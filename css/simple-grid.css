@@ -18,6 +18,14 @@ body {
   font-size: 100%;
 }
 
+.col-12 tr {
+  border: 1px;
+  border-color: black;
+}
+
+tr:nth-child(even){background-color: #DCDCDC
+}
+
 /* ROOT FONT STYLES */
 
 * {
@@ -252,4 +260,9 @@ p {
 img {
   width: 100%;
 
+}
+
+tr {
+  border: 1px;
+  border-color: black;
 }
